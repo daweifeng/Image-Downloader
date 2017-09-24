@@ -2,7 +2,7 @@
 A Simple Image Downloader for AWS S3 Buckets
 
 ```shell
-python3 main.py
+$ python3 main.py
 ```
 
 ```
